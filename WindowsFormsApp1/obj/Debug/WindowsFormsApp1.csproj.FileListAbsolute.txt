@@ -1,0 +1,11 @@
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\244-ИСП\244ИСП\ОАиП\Садыков\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
